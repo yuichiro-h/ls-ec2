@@ -1,0 +1,14 @@
+{
+	"ImportPath": "github.com/yuichiro-h/ls-ec2",
+	"GoVersion": "go1.3",
+	"Deps": [
+		{
+			"ImportPath": "github.com/crowdmob/goamz/aws",
+			"Rev": "9ded52df97039b758014228f82a3a723fb74ee9c"
+		},
+		{
+			"ImportPath": "github.com/crowdmob/goamz/ec2",
+			"Rev": "9ded52df97039b758014228f82a3a723fb74ee9c"
+		}
+	]
+}
