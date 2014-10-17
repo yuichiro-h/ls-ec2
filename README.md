@@ -31,3 +31,11 @@ You need to set aws credentials environmental variable:
 $ export AWS_ACCESS_KEY_ID="0123456789ABCDEFGHIJ"
 $ export AWS_SECRET_ACCESS_KEY="0123456789ABCDEFGHIJ0123456789ABCDEFGHIJ"
 ```
+
+## Update
+
+```bash
+$ brew update
+$ brew upgrade ls-ec2
+```
+
