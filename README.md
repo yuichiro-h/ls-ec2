@@ -10,7 +10,7 @@ $ ls-ec2
 with peco and ssh:
 
 ```bash
-connect_to_ec2() { ssh $(ls-ec2 | peco | awk '{print "username@"$2}') }
+connect_to_ec2() { ssh $(ls-ec2 | peco | awk '{print "username@"$3}') }
 alias s="connect_to_ec2"
 ```
 

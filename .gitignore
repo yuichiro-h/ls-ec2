@@ -3,3 +3,4 @@ Godeps/Readme
 Godeps/_workspace
 pkg
 scripts
+.DS_Store
